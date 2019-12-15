@@ -47,4 +47,36 @@ solve highly logical and well-organized problems.
 While interpreting the former we usually need a much more indirect translation
 than in case of the latter. Size of this discrepancy baffled me for some time now.
 
+My working theory is that regularity of "technical" problems allows for greater
+number of patterns than when it comes to "real life" issues. The patterns themselves
+are simpler as well. Concepts like "pool" are pretty common, no matter what
+the domain or the specifics. On the other hand, reality is much more chaotic.
+Patterns that emerge are fuzzier as well. You can see pattern like "speculative
+bubble", but they are much harder to explain and even notice. It even gets harder,
+because the patterns don't always have to hold (certain pickup line may work 80%
+of times, but every 5th time you're out of luck). Level of complication of these
+patterns impacts the way that our mind stores it. While I don't even pretend to
+understand how the storage happens, I hypothesize (based on my own experiences,
+observations and ideas) that it is heavily connection-based and has a lot of 
+redundancy. If that would be true, then a natural (yet hard to prove) theory arises:
+the more can go wrong when applying the pattern to status quo, the more factors
+we need to take into considerations, the more unintuitive indirections we need
+to hold it in our mind. The last deduction step here (complication leads to indirection)
+seems to resonate with our deep need to look for correlation (even though 
+"correlation ain't causation") and experiences with aritificial neural networks
+that show that things that intuitively seem very far away may be heavily correlated.
+
+I am not sure what is this thing that you're reading just yet. I don't know
+whether to refer to this as an article, a book, a thesis... These few paragraphs
+above are a pretty good intro to my mindset. Following chapters will try to
+isolate and describe some common patterns that apply when it comes to programming
+and computer science in general. 
+
+One could argue that design patterns are just that, but the patterns I'm talking 
+about are a bit higher conceptually. A "pool" is a good example of what I mean.
+There are a few design patterns, like thread pool, connection pool and lightweight
+that share common characteristics ("an abstraction of managing set of instances
+to optimize requirements to availability ratio") - these characteristics are
+what I will from now on call **concepts**, to avoid confusion with design patterns.
+
 > WIP
